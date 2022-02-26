@@ -561,9 +561,10 @@ body { font-family:'Noto Sans KR', sans-serif,'PT Serif', serif; cursor:default;
 
     
 /*s1*/
-.left_box { width:100%; height:auto; padding:0 0 15px 0; }
+.left_box { width:100%; height:auto; }
 
-.right_box { width:100%; height:auto; text-align:center; padding:0 0 15px 0; }
+.right_box { width:100%; height:auto; text-align:center; }
+.right_box .pr_strengths ul li { line-height:25px; }
 .right_box .pr_strengths ul li p:nth-child(1) { font-family:'Noto Sans KR', sans-serif; font-size:15px; font-weight:bold; }
 .right_box .pr_strengths ul li p:nth-child(2) { font-size:13px; }
 
@@ -657,9 +658,10 @@ body { font-family:'Noto Sans KR', sans-serif,'PT Serif', serif; cursor:default;
 
    
 /*s1*/
-.left_box { width:100%; height:auto; padding:0 0 15px 0; }
+.left_box { width:100%; height:auto; }
 
-.right_box { width:100%; height:auto; text-align:center; padding:0 0 15px 0; }
+.right_box { width:100%; height:auto; text-align:center; }
+.right_box .pr_strengths ul li { line-height:25px; }
 .right_box .pr_strengths ul li p:nth-child(1) { font-family:'Noto Sans KR', sans-serif; font-size:15px; font-weight:bold; }
 .right_box .pr_strengths ul li p:nth-child(2) { font-size:13px; }
 
